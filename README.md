@@ -6,7 +6,7 @@ Windows App Runner using Wine in your Web browser.
 
 ## Web:
 
-https://lrusso.github.io/WinAppRunner/WinAppRunner.htm
+https://pierrestro.github.io/WinAppRunner/WinAppRunner.htm
 
 
 ## How does it work?
