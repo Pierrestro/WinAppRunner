@@ -2,7 +2,7 @@
 	"name": "WinApp Runner",
 	"short_name": "WinApp Runner",
 	"lang": "en-US",
-	"start_url": "https://pierrestro.github.io/WinAppRunner/WinAppRunner.htm,
+	"start_url": "https://pierrestro.github.io/WinAppRunner/WinAppRunner.htm",
 	"display": "standalone",
 	"orientation": "landscape",
 	"theme_color": "#000000",
